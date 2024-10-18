@@ -2,8 +2,6 @@
 
 ## Overview
 
-## Overview
-
 **ClimScaleR** is an R package designed to provide efficient tools for spatial analysis of climate data. It caters to the needs of climate scientists, data analysts, and researchers who frequently handle large, complex climate datasets. The package offers streamlined workflows for downscaling climate model simulations, converting spatial data formats, and performing parallel processing for better computational efficiency.
 
 ### Key Functionalities:
